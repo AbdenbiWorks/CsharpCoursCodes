@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\A-To-Z ForLearning Cours\DataTypes-FloatPointType\DataTypes-FloatPointType\bin\Debug\DataTypes-FloatPointType.exe.config
+C:\Users\Pc\source\repos\A-To-Z ForLearning Cours\DataTypes-FloatPointType\DataTypes-FloatPointType\bin\Debug\DataTypes-FloatPointType.exe
+C:\Users\Pc\source\repos\A-To-Z ForLearning Cours\DataTypes-FloatPointType\DataTypes-FloatPointType\bin\Debug\DataTypes-FloatPointType.pdb
+C:\Users\Pc\source\repos\A-To-Z ForLearning Cours\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Debug\DataTypes-FloatPointType.csprojResolveAssemblyReference.cache
+C:\Users\Pc\source\repos\A-To-Z ForLearning Cours\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Debug\DataTypes-FloatPointType.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\A-To-Z ForLearning Cours\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Debug\DataTypes-FloatPointType.exe
+C:\Users\Pc\source\repos\A-To-Z ForLearning Cours\DataTypes-FloatPointType\DataTypes-FloatPointType\obj\Debug\DataTypes-FloatPointType.pdb
