@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\StringType\StringType\bin\Debug\StringType.exe.config
+C:\Users\Pc\source\repos\StringType\StringType\bin\Debug\StringType.exe
+C:\Users\Pc\source\repos\StringType\StringType\bin\Debug\StringType.pdb
+C:\Users\Pc\source\repos\StringType\StringType\obj\Debug\StringType.csprojResolveAssemblyReference.cache
+C:\Users\Pc\source\repos\StringType\StringType\obj\Debug\StringType.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\StringType\StringType\obj\Debug\StringType.exe
+C:\Users\Pc\source\repos\StringType\StringType\obj\Debug\StringType.pdb
