@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\MathematicalOperations\MathematicalOperations\bin\Debug\MathematicalOperations.exe.config
+C:\Users\Pc\source\repos\MathematicalOperations\MathematicalOperations\bin\Debug\MathematicalOperations.exe
+C:\Users\Pc\source\repos\MathematicalOperations\MathematicalOperations\bin\Debug\MathematicalOperations.pdb
+C:\Users\Pc\source\repos\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.csprojResolveAssemblyReference.cache
+C:\Users\Pc\source\repos\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.exe
+C:\Users\Pc\source\repos\MathematicalOperations\MathematicalOperations\obj\Debug\MathematicalOperations.pdb
