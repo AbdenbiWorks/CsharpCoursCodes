@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\Assignement Operations\Assignement Operations\bin\Debug\Assignement Operations.exe.config
+C:\Users\Pc\source\repos\Assignement Operations\Assignement Operations\bin\Debug\Assignement Operations.exe
+C:\Users\Pc\source\repos\Assignement Operations\Assignement Operations\bin\Debug\Assignement Operations.pdb
+C:\Users\Pc\source\repos\Assignement Operations\Assignement Operations\obj\Debug\Assignement Operations.csprojResolveAssemblyReference.cache
+C:\Users\Pc\source\repos\Assignement Operations\Assignement Operations\obj\Debug\Assignement Operations.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Assignement Operations\Assignement Operations\obj\Debug\Assignement Operations.exe
+C:\Users\Pc\source\repos\Assignement Operations\Assignement Operations\obj\Debug\Assignement Operations.pdb
