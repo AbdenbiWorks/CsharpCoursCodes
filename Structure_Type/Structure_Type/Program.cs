@@ -25,6 +25,19 @@ namespace Structure_Type
             int carType = -1;
             double modelYear;
             Console.WriteLine("1) RAV4\n2) Camery\n3) Tundra\n4) HighLand");
+            do
+            {
+                Console.WriteLine("Enter Your Car Type:");
+                carType = Convert.ToInt32(Console.ReadLine());
+            }
+            while ((carType < 1) || (carType > 4));
+
+            Console.WriteLine("Inout Model Year :");
+            modelYear = Convert.ToDouble(Console.ReadLine());
+            myCarType.modelName = (toyota)carType;
+            myCarType.modelYear = modelYear;
+            Console.WriteLine($"My Car Type is {myCarType.modelName}" +$"And the model year is {myCarType.modelYear}");
+            Console.ReadKey();
         }
     }
 }
