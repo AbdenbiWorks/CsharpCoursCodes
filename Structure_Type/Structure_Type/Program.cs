@@ -19,6 +19,21 @@ namespace Structure_Type
             public toyota modelName;
             public double modelYear;
         }
+
+        //Exercice
+        enum orientaion : byte
+        {
+            north = 1,
+            south = 2,
+            west = 3,
+            east = 4
+        }
+
+        struct direction
+        {
+            public orientaion oritentName;
+            public double myDistance;
+        }
         static void Main(string[] args)
         {
             carType myCarType;
@@ -37,7 +52,29 @@ namespace Structure_Type
             myCarType.modelName = (toyota)carType;
             myCarType.modelYear = modelYear;
             Console.WriteLine($"My Car Type is {myCarType.modelName}" +$"And the model year is {myCarType.modelYear}");
+
+            Console.WriteLine("\n-----------------Exercice---------------------\n");
+            // Exercice
+            int myDistanation = -1;
+            double myDistance;
+            Console.WriteLine("1) North \n2) South\n3) West\n4) East");
+            do
+            {
+                Console.WriteLine("Enter your Destination Type");
+                myDistanation = Convert.ToInt32(Console.ReadLine());
+            }
+            while ((myDistanation < 1) || (myDistanation > 4));
+
+            Console.WriteLine("Input the distance :");
+            myDistance = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Your Destination type is {0}\n And Your distance is: {1}", myDistanation, myDistance);
             Console.ReadKey();
+
+
+            //Q21 Define a struct that contains the directions by the orientation
+            // as a enum the distance to reach a destination
+            // And Print the direction and that distance
         }
     }
 }
