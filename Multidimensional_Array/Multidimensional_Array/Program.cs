@@ -34,6 +34,26 @@ namespace Multidimensional_Array
 
                 };
             }
+            Console.WriteLine("\n ***************Exercice***********\n");
+            //Define a 3D Array and print the values using 3 for loop
+            int[,,] my3DimensionalAray = new int[3, 2, 3]
+            {
+                {   {31,52,56 },{15,59,95} },
+                {   {8,6,4 },{10,15,16} },
+                {   {7,2,6 },{32,23,99} }
+            };
+
+            for(int a = 0; a < 3; a++)
+            {
+                for(int b = 0; b < 2; b++)
+                {
+                    for(int c = 0;c < 3; c++)
+                    {
+                        Console.Write("{0}", my3DimensionalAray[a,b,c] +" \t");
+                    }
+                }
+                Console.WriteLine("\t\t");
+            }
 
             Console.ReadKey();
         }
