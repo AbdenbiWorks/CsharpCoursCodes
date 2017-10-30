@@ -1,0 +1,15 @@
+﻿'DebuggingMethods.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'DebuggingMethods.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'E:\LocalRepository\CsharpCoursCodes\DebuggingMethods\DebuggingMethods\bin\Debug\DebuggingMethods.exe'. Symbols loaded.
+'DebuggingMethods.exe' (CLR v4.0.30319: DebuggingMethods.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'DebuggingMethods.exe' (CLR v4.0.30319: DebuggingMethods.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'DebuggingMethods.exe' (CLR v4.0.30319: DebuggingMethods.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'DebuggingMethods.exe' (CLR v4.0.30319: DebuggingMethods.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+We Started are here in the add Function
+We are done here int the Add Function
+We are started here in the write Function
+We done here in the write Function
+We are started here in the Mult Function
+We are done here in the Mult Function
+We are started here in the write Function
+We done here in the write Function
+The program '[10460] DebuggingMethods.exe' has exited with code -1073741510 (0xc000013a).
