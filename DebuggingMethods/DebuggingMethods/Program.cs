@@ -17,6 +17,7 @@ namespace DebuggingMethods
             Debug.WriteLine("We are done here int the Add Function");
             Trace.WriteLine("We are done here int the Add Function");
             return z;
+            //BreakPoints
         }
         public static int MulFunction(int x, int y)
         {
